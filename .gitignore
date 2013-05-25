@@ -1,3 +1,4 @@
-fields.yaml
+*.yaml
+*.php
 feed.md
 page.md
