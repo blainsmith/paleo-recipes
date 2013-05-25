@@ -10,6 +10,7 @@ for:
 source: http://google.com
 ---
 Perhaps some intro text here.
+<!--more-->
 
 ## Ingredients
 
