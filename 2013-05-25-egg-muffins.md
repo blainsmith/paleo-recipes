@@ -1,5 +1,6 @@
 ---
 title: Egg Muffins
+contributor: blainsmith
 ingredients:
   - eggs
   - onions

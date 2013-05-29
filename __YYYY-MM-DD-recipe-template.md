@@ -1,5 +1,6 @@
 ---
 title: Recipe Template
+contributor: blainsmith
 ingredients:
   - chicken
   - oranges

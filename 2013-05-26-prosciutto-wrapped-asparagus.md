@@ -1,5 +1,6 @@
 ---
 title: Prosciutto-Wrapped Asparagus
+contributor: blainsmith
 ingredients:
   - prosciutto
   - asparagus
